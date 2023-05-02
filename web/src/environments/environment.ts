@@ -2,6 +2,16 @@
 // `ng build` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
 
+/*
+* File: environment.ts
+* Author: Juhász Roland
+* Copyright: 2023, Juhász Roland
+* Group: Szoft II N
+* Date: 2023-05-02
+* Github: https://github.com/Roleeygit/ang_school
+* Licenc: GNU GPL
+*/
+
 export const environment = {
   production: false,
   localhost: "http://localhost:3000/"
